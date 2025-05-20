@@ -3,10 +3,10 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="./readme_images/structure.png" width="600"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="./readme_images/dataset.png" width="600"/>
 </p>
 
@@ -59,7 +59,7 @@ sudo apt-get install ffmpeg libsm6 libxext6 -y
 
 ---
 
-## 🧪 Code Overview
+##  Code Overview
 
 ###  `show_images.py`
 Check dataset images and annotations
@@ -68,7 +68,7 @@ Check dataset images and annotations
 python show_images.py
 ```
 
-<p align="center">
+<p align="left">
   <img src="./readme_images/showimg.png" width="500"/>
 </p>
 
@@ -90,7 +90,7 @@ Visualize predictions on test images
 python inference.py
 ```
 
-<p align="center">
+<p align="left">
   <img src="./readme_images/predict_result.png" width="600"/>
 </p>
 
